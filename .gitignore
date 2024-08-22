@@ -1,0 +1,5 @@
+pretrained_models
+__pycache__
+.env
+result
+speechbrain_tunemodel/final_model_state
